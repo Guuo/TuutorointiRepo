@@ -1,4 +1,4 @@
-**HATTAttribuutti**
+**Attribuutti**
 Luokalle annettavia muuttujia
 ```
 Public Class Esimerkki{
@@ -119,58 +119,3 @@ System.out.print("Anna kirjain");
 a = scan.nextChar;
 }
 ```
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-
-**While PERKELE ON IRTI**
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
-ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
