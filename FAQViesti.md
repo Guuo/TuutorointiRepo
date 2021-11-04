@@ -6,7 +6,6 @@ String "Esimerkki";
 int 123;
 }
 ```
-
 **CharAt**
 
 **Class**
@@ -22,7 +21,6 @@ nimi1.equals(nimi2);
 nimi1.equals(nimi2);
 //totta, koska samanlaiset
 ```
-
 **For**
 Toistorakenne, toistetaan jotain tiettyä koodia määritelty pituus
 ```
@@ -40,7 +38,6 @@ if(x = 1){
 Tehdään tämä koodinpätkä
 }
 ```
-
 **If-Else**
 Laajempi valintarakenne
 ```
@@ -49,7 +46,6 @@ Tehdään tämä koodinpätkä}
 else{
 Tehdään tämä koodinpätkä}
 ```
-
 **Käyttäjätietojen kysyminen**
 Katso "Print"
 
@@ -63,7 +59,6 @@ String "Esimerkki";
 Esimerkki.length();
 = 8 merkkiä
 ```
-
 **Luokka**
 Katso "Class"
 
@@ -124,3 +119,58 @@ System.out.print("Anna kirjain");
 a = scan.nextChar;
 }
 ```
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+
+**While PERKELE ON IRTI**
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
+ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA ÄÄÄÄÄÄÄÄ SAATANA 
