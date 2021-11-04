@@ -1,4 +1,4 @@
-**Attribuutti**
+**HATTAttribuutti**
 Luokalle annettavia muuttujia
 ```
 Public Class Esimerkki{
