@@ -8,13 +8,13 @@ int ika;
 
 }
 ```
+
 **CharAt**
 
 **Class**
 
 **Equals**
-equals() on boolean-tyyppisen arvon palauttava metodi, joka vertaa kahta samaa tyyppiä olevaa objektia keskenään ja kertoo, ovatko ne sama objekti. 
-Metodi on peritty Object-luokasta, ja sen toimintatapa riippuu metodin toteuttavasta luokasta. Yleinen käyttötarkoitus on String-tyyppisten objektien vertailu.
+equals() on boolean-tyyppisen arvon palauttava metodi, joka vertaa kahta samaa tyyppiä olevaa objektia keskenään ja kertoo, ovatko ne sama objekti. Metodi on peritty Object-luokasta, ja sen toimintatapa riippuu metodin toteuttavasta luokasta. Yleinen käyttötarkoitus on String-tyyppisten objektien vertailu.
 ```java
 boolean totuusArvo = true;
 String nimi1 = "Teppo";
@@ -25,9 +25,9 @@ totuusArvo = nimi1.equals(nimi2);
 totuusArvo = nimi1.equals(nimi3);
 //totuusArvo-muuttujan arvo on nyt true, koska String-objektit ovat sisällöltään samanlaiset
 ```
+
 **For**
 Toistorakenne, jossa toistetaan aaltosulkeiden {} sisällä määriteltyä koodilohkoa kaarisulkeiden () sisällä määriteltyjen sääntöjen mukaan.
-
 ```
 for(lause 1; lause 2; lause 3){
 //Aaltosulkeiden sisäpuolella koodia
@@ -43,9 +43,7 @@ for(int i = 0; i < 10, i++){
 ```
 
 **IDE**
-IDE, integrated development environment eli ohjelmointiympäristö on ohjelma tai ohjelmistopaketti, joka toimii ohjelmoinnin työkaluna. Yksinkertaisimmillaan
-IDE voi sisältää vain tekstieditorin ja ohjelmointikielen kääntäjän. Moderni IDE kuitenkin yleensä sisältää monia muita ominaisuuksia, kuten debuggaustyökaluja, 
-koodivirheiden automaattista korostamista sekä ennakoivaa kirjoittamista.
+IDE, integrated development environment eli ohjelmointiympäristö on ohjelma tai ohjelmistopaketti, joka toimii ohjelmoinnin työkaluna. Yksinkertaisimmillaan IDE voi sisältää vain tekstieditorin ja ohjelmointikielen kääntäjän. Moderni IDE kuitenkin yleensä sisältää monia muita ominaisuuksia, kuten debuggaustyökaluja, koodivirheiden automaattista korostamista sekä ennakoivaa kirjoittamista.
 
 **If**
 Valintarakenne. 
@@ -60,16 +58,18 @@ if(x == 1){
 //if-lauseen sisälle määritelty ehto palauttaa epätoden, tätä ei suoriteta
 }
 ```
+
 **Else**
 If-lauseen jälkeen on mahdollista sijoittaa else-avainsanan perään uusi koodilohko, joka toteutetaan jos if-lause palautti epätoden.
 ```java
-if(x = 1){
+if(x == 1){
 //Tehdään tämä koodinpätkä
 }
 else{
 //Tehdään tämä koodinpätkä
 }
 ```
+
 **Käyttäjätietojen kysyminen**
 Katso "Print"
 
@@ -87,8 +87,7 @@ Katso "Class"
 String-tyypin olio. Voi myös joissain tilanteissa viitata char-tyyppiseen taulukkoon char[], jota voi pitää hyvin kirjaimellisesti merkkien jonona.
 
 **Metodi**
-Luokan sisällä oleva funktio. Javassa kaikkien funktioiden tulee olla jonkin luokan sisällä, joten tässä kontekstissa funktio ja metodi ovat synonyymejä.
-Tässä wikissä javan funktioista käytetään sekaannuksen välttämiseksi ainoastaan termiä metodi.
+Luokan sisällä oleva funktio. Javassa kaikkien funktioiden tulee olla jonkin luokan sisällä, joten tässä kontekstissa funktio ja metodi ovat synonyymejä. Tässä wikissä javan funktioista käytetään sekaannuksen välttämiseksi ainoastaan termiä metodi.
 
 Metodi on koodilohko, joka suoritetaan vain silloin, kun metodia kutsutaan. Alla esimerkki mahdollisimman yksinkertaisesta metodista:
 ```java
@@ -106,6 +105,7 @@ on ensin luotava ilmentymä (olio/object/instance) luokasta TestClass. Metodikut
 TestClass ilmentymaTestClassista = new TestClass(); //Tässä luodaan ilmentymä TestClassista, nimellä "ilmentymaTestClassista"
 ilmentymaTestClassista.printStuff(); //Tässä kutsutaan luomamme ilmentymän kautta TestClass-luokkaan kirjoitettua metodia printStuff()
 ```
+
 **Muuttuja**
 Muuttuja (variable) on nimetty säiliö, johon voidaan tallentaa dataa. Muuttujalle täytyy antaa luomisvaiheessa tyyppi ja nimi. Muuttujan voi joutua myös alustamaan;
 muuttujan alustaminen (initialization) tarkoittaa jonkin arvon asettamista muuttujaan ensimmäisen kerran. Yleisesti näin tehdään, jotta vältyttäisiin null-arvon
@@ -132,13 +132,13 @@ public Class Ihminen{
         public String nimi;
         public int ika;
         
-        //Alla on yksinkertainen konstruktori, jolla voidaan asettaa luokan muuttujiin arvoja kun luokasta luodaan ilmentymä.
+//Alla on yksinkertainen konstruktori, jolla voidaan asettaa luokan muuttujiin arvoja kun luokasta luodaan ilmentymä.
         public Ihminen(String nimi, int ika){
-                this.nimi = nimi; //this-avainsana mahdollistaa kahden samannimisen muuttuja tunnistamisen erillisinä. This-avainsanalla
-                this.ika = ika;   //merkitty "nimi" -muuttuja viittaa nyt muuttujaan, joka on määritelty jo aiemmin tässä luokassa. Näin 
-                                  //se tunnistetaan erillisenä "nimi" -nimisestä parametrista, joka konstruktorille on annettu.
-        }
-        
+                this.nimi = nimi;  
+                this.ika = ika;    
+                
+/*this-avainsana mahdollistaa kahden samannimisen muuttuja tunnistamisen erillisinä. This-avainsanalla merkitty "nimi" -muuttuja viittaa nyt muuttujaan, joka on määritelty jo aiemmin tässä luokassa. Näin se tunnistetaan erillisenä "nimi" -nimisestä parametrista, joka konstruktorille on annettu.*/
+        }     
 }
 ```
 Ilmentymän tästä luokasta voimme luoda seuraavasti:
@@ -159,31 +159,31 @@ Tulostetaan haluttuja tietoja
 
 **Scanner**
 Tietojen lukuun käytettävä valmisluokka
-```
+```java
 Scanner esimerkki = new Scanner(System.in)
 System.out.print("Mitä kuuluu")
-String esiMerkki = esimerkki.nextLine();
+String esimerkki = esimerkki.nextLine();
 ```
+
 **String.length()**
 String-luokan metodi, joka palauttaa merkkijonon pituuden.
-```
+```java
 String esimerkkiString = "Esimerkki";
 int pituus = esimerkkiString.length();
 //pituus == 8 merkkiä
 ```
+
 **Taulukko**
 Taulukon (array) avulla voidaan tallentaa useampi samaa tyyppiä oleva arvo yhteen muuttujaan. Taulukon kokoa ei ole mahdollista muuttaa sen luomisen jälkeen. Taulukoita luodaan ja käytetään hakasulkeiden [] avulla.
 Esimerkkejä tavoista luoda taulukkoja:
-```
-String[] esimerkkiString = {"Jepa", "jepa", "jee"}; //String-tyypin olioita sisältävä taulukko, sisältää 3 String-oliota. Olemassaolevat indeksit ovat siis
-                                                    //esimerkkiString[0], esimerkkiString[1] ja esimerkkiString[2]
+```java
+String[] esimerkkiString = {"Jepa", "jepa", "jee"};
+//String-tyypin olioita sisältävä taulukko, sisältää 3 String-oliota. Olemassaolevat indeksit ovat siis esimerkkiString[0], esimerkkiString[1] ja esimerkkiString[2]
                                                     
-int[] lukuTaulukko; //tämä taulukko on muodostettu teknisesti oikein mutta sen koko on 0, koska sille ei ole annettu mitään kokoa luontivaiheessa.
-                    //Taulukkoon ei siis voida koskaan tallentaa mitään. Älä tee näin.
+int[] lukuTaulukko;
+//tämä taulukko on muodostettu teknisesti oikein mutta sen koko on 0, koska sille ei ole annettu mitään kokoa luontivaiheessa. Taulukkoon ei siis voida koskaan tallentaa mitään. Älä tee näin.
 
-int[] lukutaulukko2 = new int[10]; //Tämä taulukko on muodostettu oikein. Sen koko on 10. Koska taulukon alkioihin ei ole sijoitettu mitään arvoja,
-                                   //java antaa int-tyypin alkioille oletusarvoksi 0. Tämä poikkeaa paikallisen muuttujan luomisesta siten, että oletusarvo
-                                   //ei tällä kertaa olekaan null, ks. "Muuttuja"-termin esimerkin ensimmäinen rivi.
+int[] lukutaulukko2 = new int[10]; //Tämä taulukko on muodostettu oikein. Sen koko on 10. Koska taulukon alkioihin ei ole sijoitettu mitään arvoja, java antaa int-tyypin alkioille oletusarvoksi 0. Tämä poikkeaa paikallisen muuttujan luomisesta siten, että oletusarvo ei tällä kertaa olekaan null, ks. "Muuttuja"-termin esimerkin ensimmäinen rivi.
 ```
 Taulukkoja voidaan käydä läpi toistorakenteiden avulla. Tässä esimerkki yllä olevan esimerkkiString-taulukon läpikäymisestä for-loopin avulla:
 ```java
@@ -193,6 +193,7 @@ for(int i = 0; i < esimerkkiString.length(), i++){
 }
 ```
 Nyt esimerkkiString-taulukon jokaisen stringin perässä lukee myös "loopattu".
+
 **Tietojen vertailu**
 Kun halutaan vertailla primitiivien (int, short, long, float, double, char, byte, boolean) yhtäläisyyttä, voidaan käyttää operaattoria ==
 ```java
