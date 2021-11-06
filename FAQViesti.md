@@ -202,8 +202,7 @@ int j = 2;
 boolean ovatkoSamat = i == j;
 //ovatkoSamat on epätosi
 ```
-Javassa String ei ole primitiivi vaan luokan ilmentymä, joten sitä ei voida vertailla samalla operaattorilla. String-tyypin, kuten muidenkin oliotyyppien,
-vertailuun käytetään esimerkiksi instanssimetodia .equals()
+Javassa String ei ole primitiivi vaan luokan ilmentymä, joten sitä ei voida vertailla samalla operaattorilla. String-tyypin, kuten muidenkin oliotyyppien, vertailuun käytetään esimerkiksi instanssimetodia .equals()
 ```java
 String a = "Aapelinmäki";
 String b = "Aapelinmäki";
