@@ -99,17 +99,14 @@ Oletetaan että metodi on luokan TestClass sisällä. Tätä metodia voidaan sil
 ```java
 TestClass.printStuff();
 ```
-Jos metodi kirjoitettaisiin ilman static-avainsanaa, olisi printStuff() -metodi ns. instanssimetodi. Tämä tarkoittaa sitä, että päästäksemme metodiin käsiksi
-on ensin luotava ilmentymä (olio/object/instance) luokasta TestClass. Metodikutsu tapahtuisi silloin seuraavasti:
+Jos metodi kirjoitettaisiin ilman static-avainsanaa, olisi printStuff() -metodi ns. instanssimetodi. Tämä tarkoittaa sitä, että päästäksemme metodiin käsiksi on ensin luotava ilmentymä (olio/object/instance) luokasta TestClass. Metodikutsu tapahtuisi silloin seuraavasti:
 ```java
 TestClass ilmentymaTestClassista = new TestClass(); //Tässä luodaan ilmentymä TestClassista, nimellä "ilmentymaTestClassista"
 ilmentymaTestClassista.printStuff(); //Tässä kutsutaan luomamme ilmentymän kautta TestClass-luokkaan kirjoitettua metodia printStuff()
 ```
 
 **Muuttuja**
-Muuttuja (variable) on nimetty säiliö, johon voidaan tallentaa dataa. Muuttujalle täytyy antaa luomisvaiheessa tyyppi ja nimi. Muuttujan voi joutua myös alustamaan;
-muuttujan alustaminen (initialization) tarkoittaa jonkin arvon asettamista muuttujaan ensimmäisen kerran. Yleisesti näin tehdään, jotta vältyttäisiin null-arvon
-sisältävän muuttujan käsittelyltä.
+Muuttuja (variable) on nimetty säiliö, johon voidaan tallentaa dataa. Muuttujalle täytyy antaa luomisvaiheessa tyyppi ja nimi. Muuttujan voi joutua myös alustamaan; muuttujan alustaminen (initialization) tarkoittaa jonkin arvon asettamista muuttujaan ensimmäisen kerran. Yleisesti näin tehdään, jotta vältyttäisiin null-arvon sisältävän muuttujan käsittelyltä.
 ```java
 int luku; //Tätä muuttujaa ei ole alustettu, joten sen arvo on tällä hetkellä null. Null-arvon käsittelemisen yrittäminen voi aiheuttaa virheitä.
 
