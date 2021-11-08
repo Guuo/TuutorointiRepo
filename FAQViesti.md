@@ -1,7 +1,7 @@
 **Attribuutti**
 Luokan sisällä oleva muuttuja. Epätarkka termi, katso myös kenttä (field) ja ominaisuus (property)
 ```java
-public Class Ihminen{
+public class Ihminen{
 
 public String nimi;
 int ika;
