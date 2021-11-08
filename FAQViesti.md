@@ -12,6 +12,13 @@ int ika;
 **CharAt**
 
 **Class**
+Tietojen "yläluokka". Tämän sisälle luodaan metodit, muuttujat etc. Luokan nimen tulee olla myös tiedostonnimenä, muuten tiedostoa ei ajeta. Class-tietoja voi olla vain yksi/tiedosto. 
+```java
+public class Ihminen{
+//kaikki tämän luokan sisällä olevat asiat kuuluvat samaan luokkaan
+//tästä tehdään tietosto nimeltä "Ihminen"
+}
+````
 
 **Equals**
 equals() on boolean-tyyppisen arvon palauttava metodi, joka vertaa kahta samaa tyyppiä olevaa objektia keskenään ja kertoo, ovatko ne sama objekti. Metodi on peritty Object-luokasta, ja sen toimintatapa riippuu metodin toteuttavasta luokasta. Yleinen käyttötarkoitus on String-tyyppisten objektien vertailu.
