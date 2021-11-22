@@ -1,22 +1,45 @@
+**Abstract** 
+"Yleinen" luokka. Tästä ei voi luoda omia olioita, mutta voidaan luoda kaikkien alaluokkien käytettävissä olevia metodeja
+```java
+abstract class Elain2 {
+
+    protected String nimi;
+    protected boolean elossa = true;
+    //nämä ovat alaluokkien käytettävissä
+    
+    public abstract void animalSound();
+    //alaluokassa voidaan määritellä esim jokaisen eläimen oma ääni
+
+```
+
 **Attribuutti**
 Luokan sisällä oleva muuttuja. Epätarkka termi, katso myös kenttä (field) ja ominaisuus (property)
 ```java
 public class Ihminen{
 
 public String nimi;
-int ika;
-
+//kaikille näkyvä muuttuja "nimi"
+private int ika;
+//vain tälle ja sen alaluokille näkyvä muuttuja "ikä"
 }
 ```
 
 **CharAt**
+Tietyssä kohdassa oleva merkki, käytetään String-muuttujien yhteydessä
+```java
+String esiMerkki = "Esimerkki";
+
+esiMerkki.charAt(0);
+// tarkoittaa "E"
+//Muista, että Javassa kaikki alkaa kohdasta 0;
+```
 
 **Class**
-Tietojen "yläluokka". Tämän sisälle luodaan metodit, muuttujat etc. Luokan nimen tulee olla myös tiedostonnimenä, muuten tiedostoa ei ajeta. Class-tietoja voi olla vain yksi/tiedosto. 
+Tietojen "yläluokka". Tämän sisälle luodaan metodit, muuttujat etc. Luokan nimen tulee olla myös tiedostonnimenä, muuten tiedostoa ei ajeta. public class-tietoja voi olla vain yksi/tiedosto. Ko. luokan alaluokat voivat olla samassa tiedostossa.
 ```java
 public class Ihminen{
 //kaikki tämän luokan sisällä olevat asiat kuuluvat samaan luokkaan
-//tästä tehdään tietosto nimeltä "Ihminen"
+//tästä tehdään tiedosto nimeltä "Ihminen"
 }
 ````
 
@@ -87,8 +110,25 @@ Katso "Scanner"
 Katso "Class"
 
 **Main**
+Päämetodi. Jokaisessa ohjelmassa on näitä vain yksi, tämä suoritetaan aina! 
+Tunnetaan muös nimellä "pääohjelma"
+
+```java
+public static void main (String [] args){
+//tässä ollaan päämetodin sisällä
+}
+```
 
 **Math.random**
+Math-luokan valmismetodi. 
+Luo satunnaisia numeroita 0-1 välillä, ellei anneta tarkempaa määritystä 
+```java
+Random random = new Random(); 
+//luotava samalla tavalla kuin muut oliot
+
+int luku = random.nextInt(10);
+luo numeron väliltä 0-9.999....
+```
 
 **Merkkijono**
 String-tyypin olio. Voi myös joissain tilanteissa viitata char-tyyppiseen taulukkoon char[], jota voi pitää hyvin kirjaimellisesti merkkien jonona.
@@ -160,6 +200,7 @@ Tulostetaan haluttuja tietoja
 `System.out.print("Hei kaikki");`
 
 **Päämetodi**
+kts main
 
 **Scanner**
 Tietojen lukuun käytettävä valmisluokka
@@ -175,6 +216,22 @@ String-luokan metodi, joka palauttaa merkkijonon pituuden.
 String esimerkkiString = "Esimerkki";
 int pituus = esimerkkiString.length();
 //pituus == 8 merkkiä
+```
+
+**Subclass**
+Alaluokka. Kaikki yläluokan (eli siis superin) metodit ja muuttujat ovat käytettävissä täällä, mutta ei toisinpäin.
+```java
+public class Ihminen{
+private String nimi;
+private int ika;
+//alaluokan olioille voidaan määritellä nämä
+}
+
+class Lapsi extends Ihminen{
+private String Lempilelu;
+//yläluokan oliolle ei voi määritellä tätä
+}
+
 ```
 
 **Taulukko**
